@@ -1,7 +1,7 @@
 ---
 date: 2020-05-09T10:58:08-04:00
 description: ""
-featured_image: "/images/positions_by_state.png"
+featured_image: "/images/imagen.png"
 title: "Teambook 2024"
 ---
 
