@@ -8,6 +8,8 @@ SectionPagesMenu = "main"
 googleAnalytics = ""
 enableRobotsTXT = false
 canonifyURLs = false  # Desactivado para evitar problemas con las URLs relativas
+#themesDir = "../.."
+MetaDataFormat = "yaml"
 
 [sitemap]
   changefreq = "monthly"
