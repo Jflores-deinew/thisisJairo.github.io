@@ -6,21 +6,6 @@
     <description>Recent content in My Professional Portfolio on Jairo Flores</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Skills</title>
-      <link>http://localhost:1313/post/skills/</link>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/skills/</guid>
-      <description>Programming Languages 🖥️ C++ - Competitive programming 🐍 Python - Scripting and automation ☕ Java - Application development Other Skills 🐧 Linux - Advanced system management and administration 💻 Bash scripting - Automation in Linux 📄 LaTeX - Focused on mathematical and scientific documents 🔒 Information Security - Pentesting, security techniques 🐋 Docker - Containers and microservices 🚧 Jenkins - Currently learning continuous integration 📚 Hobbies 🏆 Participating in competitive programming.</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/post/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/contact/</guid>
-      <description>Follow me on these social media platforms.&#xA;Platform URL Gmail: jairoffffpereyra@gmail.com LinkedIn: https://bo.linkedin.com/in/jairo-jesus-flores-pereyra-532b45267?trk=people_directory&amp;amp;original_referer=https%3A%2F%2Fwww.google.com%2F GitHub: https://github.com/Jairo792 </description>
-    </item>
   </channel>
 </rss>
