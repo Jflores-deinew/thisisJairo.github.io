@@ -1,7 +1,6 @@
 ---
 title: "Skills"
 date: 2024-09-12
-draft: false
 type: page
 menu: main
 ---
