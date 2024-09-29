@@ -5,8 +5,8 @@ languageCode = "es"
 DefaultContentLanguage = "es"
 paginate = 3
 googleAnalytics = ""
-enableRobotsTXT = true
-canonifyURLs = true # Desactivado para evitar problemas con las URLs relativas
+enableRobotsTXT = false
+canonifyURLs = false  # Desactivado para evitar problemas con las URLs relativas
 
 [sitemap]
   changefreq = "monthly"
@@ -16,8 +16,15 @@ canonifyURLs = true # Desactivado para evitar problemas con las URLs relativas
 [params]
   favicon = ""
   description = "Página personal de Jairo Flores, apasionado por la programación competitiva y C++."
-  background_color_class = "bg-black"
-  recent_posts_number = 2
-[social]
-  github = "https://github.com/Jairo792"
-  linkedin = "https://www.linkedin.com/in/jairo-jesus-flores-pereyra-532b45267/?originalSubdomain=bo"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  codeforces = ""
+  stackoverflow = ""
+
