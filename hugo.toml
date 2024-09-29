@@ -1,16 +1,14 @@
 baseURL = 'https://example.org/'
 title = "Jairo Flores"
-languageCode = "en-us"
-theme = "ananke"
-#themesDir = "../.."
-
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+theme ='ananke'
+languageCode = "es"
+DefaultContentLanguage = "es"
+paginate = 3
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
-enableRobotsTXT = true
-canonifyURLs = true
+enableRobotsTXT = false
+canonifyURLs = false  # Desactivado para evitar problemas con las URLs relativas
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
