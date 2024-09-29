@@ -3,7 +3,7 @@ title = "Jairo Flores"
 theme = 'ananke'
 languageCode = "es"
 DefaultContentLanguage = "es"
-Paginate = 3
+paginate = 3
 canonifyURLs = true
 googleAnalytics = ""
 enableRobotsTXT = true
@@ -15,22 +15,13 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = "https://github.com/Jairo792"
-  gitlab = ""
-  linkedin = "https://www.linkedin.com/in/jairo-jesus-flores-pereyra-532b45267/?originalSubdomain=bo"
-  mastodon = ""
-  slack = ""
-  codeforces = "https://codeforces.com/profile/newdei"
-  stackoverflow = ""
-  background_color_class = "bg-black"
-  featured_image = "images/jairo.jpg"
+  description = "Página personal de Jairo Flores, apasionado por la programación competitiva y C++."
+  background_color_class = "bg-black" # Asegúrate de que tu tema soporte esta clase.
   recent_posts_number = 2
 
-# Comentarios adicionales:
-# 1. La ruta de 'featured_image' debe ser relativa a la carpeta 'static/'.
-# 2. 'Paginate' está configurado para mostrar solo 3 artículos por página.
+[social]
+  github = "https://github.com/Jairo792"
+  linkedin = "https://www.linkedin.com/in/jairo-jesus-flores-pereyra-532b45267/?originalSubdomain=bo"
+ 
+[media]
+  featured_image = "images/jairo.jpg" # La imagen debe estar en la carpeta 'static/images/'.
