@@ -3,4 +3,4 @@ title = "Jairo Flores"
 theme = 'ananke'
 languageCode = "es"
 DefaultContentLanguage = "es"
-canonifyURLs = true
+paginate = 3
