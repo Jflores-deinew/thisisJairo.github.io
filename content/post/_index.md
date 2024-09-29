@@ -1,6 +1,6 @@
 ---
-title: "My Professional Portfolio"
-featured_image: '/images/ign_legendary.png'
-description: "Hi! My name is Jairo Flores Pereyra."
+title: "Projects"
+date: 2017-03-02T12:00:00-05:00
+featured_image: '/images/ign_evening.png'
 ---
-Welcome to my Professional Portfolio. I am a Systems Engineering student passionate about competitive programming, cybersecurity, and Linux.
+
