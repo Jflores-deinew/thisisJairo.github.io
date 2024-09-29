@@ -5,5 +5,3 @@ languageCode = "es"
 DefaultContentLanguage = "es"
 paginate = 3
 canonifyURLs = true
-googleAnalytics = ""
-enableRobotsTXT = true
