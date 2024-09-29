@@ -7,14 +7,3 @@ paginate = 3
 canonifyURLs = true
 googleAnalytics = ""
 enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
-[params]
-  favicon = ""
-  description = "Página personal de Jairo Flores, apasionado por la programación competitiva y C++."
-  background_color_class = "bg-black" # Asegúrate de que tu tema soporte esta clase.
-  recent_posts_number = 2
