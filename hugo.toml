@@ -4,3 +4,21 @@ theme = 'ananke'
 languageCode = "es"
 DefaultContentLanguage = "es"
 paginate = 3
+googleAnalytics = ""
+enableRobotsTXT = true
+canonifyURLs = false  # Desactivado para evitar problemas con las URLs relativas
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Página personal de Jairo Flores, apasionado por la programación competitiva y C++."
+  background_color_class = "bg-black"
+  recent_posts_number = 2
+
+[social]
+  github = "https://github.com/Jairo792"
+  linkedin = "https://www.linkedin.com/in/jairo-jesus-flores-pereyra-532b45267/?originalSubdomain=bo"
