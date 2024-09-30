@@ -15,3 +15,4 @@ Platform |	URL
 ---|---
 Gmail:|jairoffffpereyra@gmail.com
 GitHub:|https://github.com/Jairo792
+Correo Institucional:|jairo.flores@sistemas.edu.bo
