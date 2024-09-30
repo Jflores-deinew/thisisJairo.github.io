@@ -22,3 +22,9 @@ menu: main
 ## 📚 Hobbies
 
 - 🏆 Participating in **competitive programming**. You can see my profile on [Codeforces](https://codeforces.com/profile/newdei).
+- 💻 Member of the **Hacklab Oruro**.
+- 🎈 Participated in the **Regional Stage of the ICPC Bolivia 2023-2024**.
+- 🎈 Participated in the **Maratona SBC de Programação**.
+
+- 🌍 **Training and Development:**
+  - 🎈 Attended the **Training Camp in Argentina** to enhance competitive programming skills.
