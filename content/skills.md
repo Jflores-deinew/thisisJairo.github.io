@@ -1,5 +1,6 @@
 ---
 title: "Skills"
+featured_image: '/images/board.jpg'
 date: 2024-09-12
 draft: false
 type: page
